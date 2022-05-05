@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ressources","c":"BlocNotes","l":"BlocNotes()","u":"%3Cinit%3E()"},{"p":"ressources","c":"BlocNotes","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
